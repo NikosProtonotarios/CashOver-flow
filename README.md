@@ -17,3 +17,4 @@ We aim to introduce monthly and yearly analysis, charts, and financial advice on
 ##### Github Links:
 > - Wahid_Anwar: https://github.com/wahid243
 > - Dennis Mantzavinatos: https://github.com/DennisMantz
+> - Nikos Protonotarios: https://github.com/NikosProtonotarios
