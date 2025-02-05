@@ -1,4 +1,4 @@
-# Cash Overflow - A class project (Duration: 7 days, Participants: 2)
+# Cash Overflow - A class project (Duration: 7 days, Participants: 3)
 
 ## Purpose
 This application allows users to edit four different categories (Income, Core, Flow, and Overflow) while calculating and displaying the total amount for each category.
